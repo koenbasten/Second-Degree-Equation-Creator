@@ -1,0 +1,15 @@
+C:\Users\koenb\OneDrive\ICT\SPEEDY\SPEEDY\DEV\REPOS\MathEquasions\MathEquasions\obj\Debug\net8.0\MathEquations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koenb\OneDrive\ICT\SPEEDY\SPEEDY\DEV\REPOS\MathEquasions\MathEquasions\obj\Debug\net8.0\MathEquations.AssemblyInfoInputs.cache
+C:\Users\koenb\OneDrive\ICT\SPEEDY\SPEEDY\DEV\REPOS\MathEquasions\MathEquasions\obj\Debug\net8.0\MathEquations.AssemblyInfo.cs
+C:\Users\koenb\OneDrive\ICT\SPEEDY\SPEEDY\DEV\REPOS\MathEquasions\MathEquasions\obj\Debug\net8.0\MathEquations.csproj.CoreCompileInputs.cache
+C:\Users\koenb\OneDrive\ICT\SPEEDY\SPEEDY\DEV\REPOS\MathEquasions\MathEquasions\obj\Debug\net8.0\MathEquations.sourcelink.json
+C:\Users\koenb\OneDrive\ICT\SPEEDY\SPEEDY\DEV\REPOS\MathEquasions\MathEquasions\bin\Debug\net8.0\MathEquations.exe
+C:\Users\koenb\OneDrive\ICT\SPEEDY\SPEEDY\DEV\REPOS\MathEquasions\MathEquasions\bin\Debug\net8.0\MathEquations.deps.json
+C:\Users\koenb\OneDrive\ICT\SPEEDY\SPEEDY\DEV\REPOS\MathEquasions\MathEquasions\bin\Debug\net8.0\MathEquations.runtimeconfig.json
+C:\Users\koenb\OneDrive\ICT\SPEEDY\SPEEDY\DEV\REPOS\MathEquasions\MathEquasions\bin\Debug\net8.0\MathEquations.dll
+C:\Users\koenb\OneDrive\ICT\SPEEDY\SPEEDY\DEV\REPOS\MathEquasions\MathEquasions\bin\Debug\net8.0\MathEquations.pdb
+C:\Users\koenb\OneDrive\ICT\SPEEDY\SPEEDY\DEV\REPOS\MathEquasions\MathEquasions\obj\Debug\net8.0\MathEquations.dll
+C:\Users\koenb\OneDrive\ICT\SPEEDY\SPEEDY\DEV\REPOS\MathEquasions\MathEquasions\obj\Debug\net8.0\refint\MathEquations.dll
+C:\Users\koenb\OneDrive\ICT\SPEEDY\SPEEDY\DEV\REPOS\MathEquasions\MathEquasions\obj\Debug\net8.0\MathEquations.pdb
+C:\Users\koenb\OneDrive\ICT\SPEEDY\SPEEDY\DEV\REPOS\MathEquasions\MathEquasions\obj\Debug\net8.0\MathEquations.genruntimeconfig.cache
+C:\Users\koenb\OneDrive\ICT\SPEEDY\SPEEDY\DEV\REPOS\MathEquasions\MathEquasions\obj\Debug\net8.0\ref\MathEquations.dll
